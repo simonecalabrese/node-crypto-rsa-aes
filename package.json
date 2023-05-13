@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "node index.js"
+    "rsa": "node scripts/rsa.js",
+    "aes": "node scripts/aes.js"
   },
   "author": "Simone Calabrese",
   "license": "ISC"
